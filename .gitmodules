@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "polyMatrix"]
 	path = polyMatrix
 	url = https://github.com/namezys/polymatrix
-	shallow = true
-	registered = true
